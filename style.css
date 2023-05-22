@@ -1,0 +1,114 @@
+*{
+   font-family:  'Lato', sans-serif;
+}    
+    
+    .logoimg img{
+        /* margin-top: -52px !important; */
+        height: 57px;
+    }
+
+
+    @media screen and (min-width: 480px) {
+    .imageform{
+        position: absolute;
+    top: 8rem;
+    left: 7rem;
+    }
+
+}
+   
+    .text_crousel{
+        width: 72%;
+        background: #3880d3;
+        color: white;
+        /* padding: 20px; */
+        padding: 8px 19px 30px 20px;
+    }
+
+
+
+    .hrline{
+        width: 10rem; color: orange;
+        height: 20rem;
+    }
+    
+    .container-text {
+        display: flex;
+      }
+      
+      .text {
+        flex: 1;
+        text-align: center;
+      }
+    
+      h3{
+        color: #28aae1;
+        font-weight: bold;
+    }
+    
+    h4{
+        font-size: 18px;
+        color: #28aae1;
+        font-weight: bold;
+    }
+    
+    
+    
+    .alenta{
+        padding: 3px 21px 79px 28px;
+        position: absolute;
+        top: 9rem;
+        font-size: 26px;
+        color: white;
+        font-weight: bold;
+    }
+
+
+    footer {
+        background: #28aae1;
+        color: #ffffff;
+        padding: 30px 0px;
+    }
+
+
+    footer .Review img {
+        width: 100%;
+        max-width: 150px;
+    }
+
+
+    a{
+        color: white;
+    text-decoration: none;
+    }
+
+    footer form input[type=submit] {
+        background: #f59120;
+        width: 30%;
+        border: none;
+        color: white;
+    }
+
+
+    .Disclaimer{
+        color: #6d6d6d;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+    text-align: justify;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    }
+
+
+    @media screen and (min-width: 480px) {
+  .sliderphoto img{
+        position: relative !important;
+    top: 21px !important;
+    width: 68vh !important;
+    }
+}
+
+
+
+
